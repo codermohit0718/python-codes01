@@ -1,0 +1,3 @@
+my_list = [10, 20, 30]
+my_list[1] = 200
+print(my_list)
